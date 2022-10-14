@@ -13,4 +13,4 @@ DevOps Engineer by day and gamehacker by night.<br>I work on object detection us
 ![](https://github-profile-trophy.vercel.app/?username=voidzer0-development&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=voidzer0-development&icon=7&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=voidzer0-development)
