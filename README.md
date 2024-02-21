@@ -1,5 +1,5 @@
 # 💫 About Me:
-DevOps Engineer by day and gamehacker by night.<br>I work on object detection using SSD300 with PyTorch and TensorRT.<br>Cybersecurity and reverse engineering hobbyist<br>
+DevOps Engineer by day and gamehacker by night.<br>I work on object detection using SSD300 and YOLO with PyTorch and TensorRT.<br>Cybersecurity and reverse engineering fanatic.<br>
 
 
 # 💻 Tech Stack:
