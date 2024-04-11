@@ -1,5 +1,5 @@
 # 💫 About Me:
-Lead Software Engineer by day and gamehacker by night.<br>Cybersecurity and reverse engineering fanatic.<br>
+Data Engineer by day and gamehacker by night.<br>Cybersecurity and reverse engineering fanatic.<br>
 
 
 # 💻 Tech Stack:
